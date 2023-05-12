@@ -1,4 +1,4 @@
-terraform {
+ terraform {
 /*cloud {
     #hostname = "my-tfe-hostname" # Optional for TFC 
     organization = "petya-business-org"
